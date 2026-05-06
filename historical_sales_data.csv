@@ -1,0 +1,501 @@
+company_name,industry,emp_count,revenue_mln,engagement_score,lead_source,closed_deal
+Clearwater Retail One,Retail,1098,371.75,93,Cold Email,0
+Insights Group,Manufacturing,781,115.02,29,Referral,0
+Crescent-Supply,Manufacturing,3094,133.98,38,Website,0
+Redwood Platform LLC,Retail,489,433.86,75,LinkedIn,0
+Horizon-Logistics-Labs,SaaS,4149,64.31,88,Website,0
+Horizon Capital Inc.,Retail,492,436.07,20,Cold Email,0
+Crescent Platform AI,Manufacturing,3402,493.66,59,Cold Email,0
+Atlas Advisory,SaaS,712,246.35,81,Cold Email,0
+Payments Co.,Fintech,88,228.77,27,Cold Email,0
+Dynamics-Inc. Prime,SaaS,4060,393.68,100,LinkedIn,1
+Cloud-Holdings,Retail,3567,204.68,62,Website,1
+Stonegate Logistics,Logistics,1683,366.68,2,Referral,0
+Crescent Analytics Technologies,Logistics,1611,13.87,1,Cold Email,0
+Insights-Group,Manufacturing,2606,68.82,50,Referral,0
+Silverline Capital LLC,Fintech,2492,474.49,59,Referral,0
+Clearwater-Platform,SaaS,2857,498.09,63,Referral,0
+Ironwood Supply Co.,SaaS,3354,14.47,29,Cold Email,0
+Crescent Cloud Inc.,Fintech,4880,254.79,16,Referral,0
+Golden Gate Insights International,Fintech,3123,438.89,33,LinkedIn,0
+Dynamics Labs,Fintech,935,328.52,3,LinkedIn,0
+Logistics-International,Retail,3689,193.23,71,Referral,0
+Summit-Logistics-International,SaaS,1733,349.12,81,LinkedIn,0
+Stonegate Retail,Fintech,4312,138.64,78,Cold Email,1
+Clearwater-Capital,Fintech,4240,360.79,16,Referral,1
+Riverstone Automation,Fintech,4127,103.33,26,Referral,0
+BrightPath Manufacturing Partners,SaaS,2982,353.2,38,Cold Email,1
+Keystone Dynamics Inc. One,Retail,1751,345.66,62,Referral,0
+Ops International,Fintech,779,453.91,74,Website,1
+Silverline Supply AI,Fintech,4241,42.15,93,LinkedIn,0
+Riverstone Cloud Co.,SaaS,3791,494.39,38,Referral,0
+Summit Capital One,Fintech,1481,437.7,38,Referral,0
+Stonegate-Ledger-Group,Manufacturing,3539,370.58,13,LinkedIn,1
+Pioneer Solutions Inc. AI,SaaS,1446,167.69,57,Referral,0
+Oakridge-Networks-Corp.,Fintech,3102,408.41,24,LinkedIn,0
+Oakridge Analytics Next,Retail,2276,418.68,89,Website,0
+Evergreen Risk Partners,SaaS,976,70.59,93,LinkedIn,0
+Keystone Networks,SaaS,899,210.93,76,Website,0
+Clearwater Solutions Corp.,Retail,1534,307.6,100,Referral,0
+Systems-Corp.,SaaS,4007,460.6,15,Website,0
+Stonegate Insights Technologies,Fintech,2193,329.21,2,Cold Email,0
+Evergreen Systems LLC,Manufacturing,4302,263.94,90,LinkedIn,0
+Ledger International,SaaS,3997,176.15,87,Website,1
+Commerce International,Logistics,497,10.76,21,Website,0
+Silverline-Dynamics-Technologies,SaaS,663,376.96,42,Cold Email,0
+Apex Risk Holdings,Manufacturing,462,255.93,71,Website,0
+Analytics-Co.,SaaS,695,232.25,74,Website,1
+Oakridge Insights Corp.,Retail,3712,161.45,64,LinkedIn,1
+Beacon-Advisory-International,Retail,343,280.78,1,LinkedIn,0
+Stonegate-Analytics,Logistics,2545,445.6,72,Cold Email,0
+Supply Group Next,Retail,2842,184.85,7,Cold Email,0
+Apex Ops,Manufacturing,4638,384.87,77,Website,0
+Horizon Manufacturing Technologies,Manufacturing,3757,61.44,98,Cold Email,1
+Keystone Capital Corp.,Manufacturing,2441,276.11,48,LinkedIn,1
+Networks-Technologies,SaaS,4083,74.52,92,Website,1
+Riverstone Retail,Logistics,1654,97.83,51,Cold Email,0
+Apex-Commerce-Labs,SaaS,2818,58.34,54,LinkedIn,0
+BrightPath-Ledger-Labs Next,Logistics,1059,387.21,58,Website,0
+Pioneer Retail,Logistics,1152,482.11,1,LinkedIn,0
+Ironwood Networks Next,Retail,4843,244.05,66,Cold Email,0
+Redwood Commerce Co.,SaaS,1101,56.26,85,Referral,0
+Risk-Group,Retail,3479,489.85,89,Cold Email,0
+Pioneer Platform 360,Manufacturing,2459,229.16,18,Cold Email,0
+Horizon-Platform-LLC Prime,Logistics,2498,422.32,71,Referral,0
+Summit-Supply-Holdings Next,Logistics,1830,104.44,80,Referral,0
+Golden-Gate-Ledger-Corp.,SaaS,1506,254.43,89,Referral,0
+Risk Labs,Manufacturing,4656,242.78,74,Website,0
+Retail LLC,Logistics,2392,439.35,55,LinkedIn,0
+Blue Harbor Dynamics Holdings,Fintech,3170,76.94,86,LinkedIn,1
+Crescent-Payments-Partners Prime,SaaS,2397,343.28,19,LinkedIn,0
+Stonegate Systems,Manufacturing,1721,378.03,5,Referral,0
+Insights Inc.,Fintech,4652,433.1,96,Website,1
+Golden Gate Systems Partners,Manufacturing,434,463.61,50,Website,0
+Crescent Automation Corp. Next,Manufacturing,4573,31.63,96,Referral,0
+Stonegate-Ops,Retail,1897,456.19,91,Referral,0
+Summit-Advisory,Logistics,4992,102.25,93,Cold Email,0
+Silverline-Automation,SaaS,660,97.55,23,LinkedIn,0
+Clearwater Logistics,Retail,2336,280.52,17,Cold Email,0
+Insights-Labs,Manufacturing,96,168.63,91,Cold Email,1
+BrightPath-Ledger,Manufacturing,4939,30.17,81,Referral,0
+Supply Technologies,Logistics,4556,182.25,91,Referral,0
+Stonegate Advisory Partners,SaaS,4314,38.75,65,Cold Email,0
+Oakridge Analytics Partners,Logistics,3354,50.51,29,Cold Email,0
+Analytics Holdings,Manufacturing,3005,150.32,97,Website,0
+Silverline Risk,Fintech,989,336.12,58,Cold Email,0
+Beacon Dynamics Group,Logistics,2047,479.65,88,Referral,0
+Ops-LLC,Fintech,3211,132.01,93,Referral,1
+Cloud Partners,Logistics,3121,259.58,66,Website,0
+Apex-Dynamics,Manufacturing,1627,163.55,11,LinkedIn,0
+Stonegate Risk,Logistics,4418,8.63,9,Cold Email,0
+BrightPath Advisory Group,SaaS,3525,418.65,27,Website,0
+Silverline Networks Group,Fintech,1309,16.76,92,Referral,1
+Oakridge-Networks,Fintech,494,93.11,33,LinkedIn,0
+Keystone Manufacturing Labs,SaaS,2168,206.78,58,Website,0
+Redwood Platform Group,Fintech,3240,338.28,69,LinkedIn,1
+Cloud-Corp.,Logistics,568,379.2,75,LinkedIn,0
+Analytics-Technologies,Fintech,2980,464.38,14,Referral,0
+Golden Gate Commerce Group,Manufacturing,758,144.35,57,Website,0
+Keystone Systems LLC,Fintech,3932,82.38,29,Cold Email,0
+Silverline-Logistics,Logistics,2466,480.27,19,Referral,0
+Stonegate-Solutions-LLC,Manufacturing,141,278.99,72,Cold Email,1
+Oakridge-Capital-Inc.,Fintech,4741,300.34,69,LinkedIn,1
+Keystone-Networks-Technologies,Manufacturing,1784,209.26,83,Cold Email,0
+Atlas Automation Holdings,SaaS,2120,101.19,24,LinkedIn,0
+Manufacturing Technologies,Logistics,3828,324.11,10,Referral,0
+Clearwater Networks Partners,Manufacturing,854,102.72,75,Website,0
+Silverline-Solutions-Technologies,Manufacturing,1100,337.29,31,LinkedIn,0
+Silverline Capital Inc.,Fintech,1635,162.3,58,Referral,0
+Ironwood Systems,Manufacturing,4835,80.44,73,Referral,0
+Pioneer Advisory LLC,Retail,1431,7.39,32,Cold Email,0
+Ironwood-Platform-Inc.,Retail,2316,420.85,18,Referral,0
+Beacon Ops Corp.,Retail,3698,182.58,40,Website,0
+Keystone Cloud Co.,SaaS,721,421.69,18,Cold Email,0
+Beacon-Automation-Partners,Fintech,667,446.59,65,LinkedIn,1
+Clearwater Ops LLC,Logistics,3368,385.75,28,LinkedIn,0
+Riverstone Risk,Logistics,4471,238.69,100,Cold Email,0
+Horizon Ops Labs,SaaS,4880,367.95,38,Cold Email,0
+Northbridge Insights Group One,Logistics,791,201.41,65,LinkedIn,0
+Payments Labs,Logistics,1408,379.82,18,Website,0
+Retail International,Logistics,4685,331.41,19,Website,0
+Beacon Commerce,Fintech,1842,381.93,30,LinkedIn,0
+Beacon-Risk,SaaS,400,335.95,67,Referral,0
+Manufacturing-Technologies,Retail,430,24.75,84,Referral,1
+Ironwood-Dynamics-Holdings,Logistics,2290,418.26,34,Cold Email,0
+Supply-LLC,Retail,3042,295.9,10,Referral,0
+Atlas Dynamics Holdings AI,SaaS,4280,205.89,45,Website,0
+Silverline Analytics Partners,Logistics,104,253.41,18,Website,0
+Silverline-Automation-Inc. 360,Fintech,4265,323.52,28,Cold Email,0
+BrightPath Analytics LLC,Manufacturing,4981,360.06,16,Cold Email,0
+Stonegate Payments Labs,Manufacturing,978,243.35,62,Website,0
+Keystone Logistics AI,SaaS,3416,16.11,6,Cold Email,0
+Apex Advisory Inc.,SaaS,1153,316.62,6,Cold Email,1
+Beacon-Ops-Corp.,Manufacturing,1524,260.74,52,LinkedIn,0
+Golden-Gate-Automation,Manufacturing,752,112.21,78,Website,0
+Oakridge-Advisory,SaaS,1847,416.03,77,Cold Email,0
+Northbridge-Networks,SaaS,4234,135.94,93,Referral,0
+Evergreen-Insights-Group,Logistics,4888,39.08,49,Website,1
+Apex Advisory,Fintech,1707,263.74,65,Website,1
+Keystone-Capital Next,Logistics,838,92.82,79,LinkedIn,0
+Insights Technologies,Logistics,4173,377.43,12,Website,0
+Evergreen-Commerce-Co.,Logistics,4467,414.62,100,Website,0
+Clearwater Systems Inc. 360,Manufacturing,405,350.33,55,Cold Email,0
+Stonegate Networks,Retail,3173,178.51,95,LinkedIn,0
+Silverline Commerce,Manufacturing,3958,384.1,11,Referral,0
+Ironwood-Platform,Logistics,3397,132.61,1,LinkedIn,0
+Retail Co.,Fintech,4307,8.56,84,Cold Email,1
+Apex Commerce Corp.,Manufacturing,3399,184.32,20,Website,0
+Oakridge-Ops-Partners,Manufacturing,2190,428.21,55,Referral,0
+Clearwater-Insights,Retail,1718,209.55,72,Website,0
+Golden Gate Advisory Co.,Logistics,4595,244.46,40,Referral,0
+BrightPath Risk,Retail,1181,428.22,85,LinkedIn,0
+Payments Technologies,Retail,1375,54.64,66,Website,0
+Evergreen-Advisory,Logistics,476,84.57,82,LinkedIn,0
+Automation Group,SaaS,3913,463.3,56,LinkedIn,1
+Horizon-Ops-International,SaaS,3087,44.62,5,Website,0
+Stonegate Networks Co.,Retail,4318,146.8,77,LinkedIn,0
+Golden-Gate-Logistics One,SaaS,4099,222.29,26,Referral,0
+Evergreen Analytics Partners Next,Logistics,4232,260.33,30,Cold Email,0
+Pioneer Ops Corp.,Manufacturing,2009,329.23,21,LinkedIn,0
+Riverstone-Risk,Retail,2942,336.48,52,Cold Email,0
+Blue Harbor Dynamics Technologies,Fintech,788,277.05,93,Referral,1
+Retail Holdings,Manufacturing,1903,305.15,25,Website,0
+Beacon Platform,Logistics,88,134.25,53,LinkedIn,0
+Keystone Commerce Inc.,Logistics,2460,173.28,15,Referral,0
+Clearwater Platform Prime,Logistics,2099,348.62,49,Website,0
+Blue Harbor Capital Co.,Manufacturing,3808,342.39,76,LinkedIn,0
+Blue Harbor Ops Technologies,Manufacturing,603,194.42,29,Cold Email,0
+Keystone Solutions Labs,Retail,2942,260.67,2,Referral,0
+Blue-Harbor-Advisory,Fintech,3318,338.48,44,LinkedIn,0
+Retail-Technologies,SaaS,3953,160.37,28,Referral,0
+Oakridge Ledger AI,SaaS,4137,369.87,31,Cold Email,0
+Blue Harbor Analytics Inc.,SaaS,1927,105.37,32,Referral,0
+Evergreen-Logistics,Fintech,1032,460.49,87,Website,1
+Apex Automation Technologies AI,Logistics,396,424.77,48,Referral,0
+Beacon Supply Co.,Logistics,2300,247.95,98,Referral,0
+Stonegate Advisory,Logistics,1100,31.8,55,Website,0
+Redwood Ops,Fintech,4166,176.91,88,Cold Email,1
+Horizon-Risk-International,Fintech,4295,232.73,89,LinkedIn,1
+Northbridge Supply,SaaS,3158,292.6,42,Referral,0
+Silverline Insights,Manufacturing,1583,276.54,31,Referral,0
+Ironwood Advisory Labs,Logistics,2860,186.13,64,Website,0
+Evergreen-Logistics-LLC,Manufacturing,3040,427.89,36,Website,0
+Supply Labs One,SaaS,4767,344.58,13,Referral,0
+Atlas Dynamics Technologies 360,Logistics,3590,428.87,26,Cold Email,0
+Summit Platform,SaaS,3924,403.81,23,Website,0
+Platform Co. Next,Logistics,4424,361.68,63,Referral,0
+Summit Commerce Corp.,Logistics,440,202.21,89,Cold Email,1
+Apex Advisory Labs,Manufacturing,3953,420.29,13,Website,0
+Oakridge Payments Group,Manufacturing,3007,183.35,72,Referral,0
+Crescent Platform,Retail,1043,178.79,87,Cold Email,0
+Commerce-Labs,Logistics,1479,489.79,37,Referral,0
+Clearwater Ops LLC Next,Logistics,4043,388.5,58,LinkedIn,0
+Dynamics Partners,Manufacturing,3849,317.7,19,Cold Email,0
+BrightPath Insights,Manufacturing,3505,317.48,74,Website,0
+Blue Harbor Analytics,Fintech,698,85.19,30,Referral,0
+Northbridge Ledger Holdings,Manufacturing,2241,304.67,51,Referral,0
+Blue-Harbor-Payments,Manufacturing,4858,262.86,58,Website,0
+Keystone Supply Partners,Fintech,1074,365.25,85,Referral,0
+Blue Harbor Cloud Technologies,Fintech,1775,87.62,14,LinkedIn,1
+Horizon Networks Corp.,Retail,4542,31.64,99,Website,0
+Oakridge Retail,Fintech,901,134.91,20,LinkedIn,0
+Oakridge Cloud Corp.,Retail,2584,118.53,95,Referral,0
+Oakridge Networks Co. 360,SaaS,1125,265.74,22,LinkedIn,1
+Golden Gate Automation Co.,Manufacturing,2714,432.8,60,Referral,0
+Northbridge Dynamics Technologies,SaaS,4467,92.63,77,Website,0
+Insights Labs,Logistics,3613,264.11,82,Referral,0
+Commerce Technologies,Retail,4470,117.43,12,Website,0
+Insights Partners,Retail,2178,82.08,2,LinkedIn,0
+Pioneer Logistics,SaaS,2867,146.95,69,LinkedIn,0
+BrightPath Supply,Retail,3958,153.31,99,Website,0
+Summit-Systems-Inc.,Logistics,1944,399.4,71,Referral,0
+Riverstone Platform,Logistics,3630,200.4,21,Website,0
+Summit Ops,SaaS,2204,44.21,81,Cold Email,0
+Horizon Systems,Logistics,2277,145.92,96,Referral,0
+Payments-Technologies,Fintech,1544,72.63,15,Website,0
+Crescent Systems International AI,Manufacturing,4080,97.96,3,Cold Email,1
+Redwood Advisory Holdings Prime,Logistics,231,97.04,14,Referral,0
+Payments-Co.,Retail,117,120.24,20,LinkedIn,0
+Analytics Technologies,Manufacturing,3492,159.23,64,Referral,0
+Clearwater Dynamics Labs,Fintech,2755,44.71,97,Cold Email,1
+Pioneer Retail Group,Retail,634,273.88,24,Cold Email,0
+Blue Harbor Automation One,Manufacturing,3175,414.98,16,Cold Email,0
+Horizon Platform,Retail,2074,370.12,5,Cold Email,0
+Summit Platform International Next,Fintech,4319,334.67,27,Website,0
+Cloud-LLC 360,Manufacturing,2696,83.51,94,LinkedIn,0
+BrightPath Manufacturing Technologies,Logistics,4317,65.46,62,Referral,0
+Commerce Group,Fintech,1834,486.77,31,Website,0
+BrightPath Ledger Corp.,SaaS,2311,294.42,51,Cold Email,1
+Platform-LLC One,Fintech,4810,392.82,61,Cold Email,1
+Ironwood Systems Partners,Fintech,2087,83.06,12,Referral,0
+Ironwood Manufacturing,Fintech,539,180.98,20,LinkedIn,1
+Stonegate Supply Group,SaaS,2644,490.93,83,Referral,0
+Blue Harbor Platform,Retail,1630,15.57,49,Referral,0
+Summit Manufacturing Partners,Manufacturing,373,245.22,57,Referral,0
+Oakridge Platform Technologies,Retail,1604,285.52,70,Referral,0
+Horizon Commerce Partners,Retail,2305,434.49,77,Cold Email,1
+Pioneer Platform One,SaaS,3731,151.36,34,Referral,0
+Crescent-Ops-Group AI,Logistics,3155,368.16,3,Referral,0
+Golden-Gate-Payments-Holdings Prime,SaaS,2677,361.9,85,Website,0
+Riverstone Analytics,Retail,4567,81.3,37,Referral,0
+BrightPath-Logistics-Partners 360,Manufacturing,954,52.65,85,LinkedIn,1
+Summit Manufacturing International,SaaS,1513,437.38,26,LinkedIn,0
+Apex Payments Labs,Fintech,310,287.65,50,Website,0
+BrightPath-Dynamics Prime,Logistics,2146,29.3,29,LinkedIn,1
+Pioneer Supply International,SaaS,4075,464.56,11,Website,0
+Atlas Automation Corp.,Fintech,3006,281.22,54,Referral,0
+Keystone Solutions,Fintech,2227,266.87,94,LinkedIn,1
+Golden-Gate-Commerce-Labs,Fintech,1818,480.49,13,LinkedIn,0
+Beacon Insights Technologies,Logistics,3206,98.78,68,Cold Email,0
+Atlas Systems Group,SaaS,4624,375.85,54,LinkedIn,0
+Systems Corp.,Logistics,2982,338.87,90,Website,0
+Oakridge Advisory Partners,SaaS,1527,277.23,65,Referral,0
+Systems Group,Logistics,4964,224.29,46,Referral,0
+Redwood Automation Labs,Manufacturing,3095,209.11,82,Website,0
+Ironwood-Supply-International Next,Manufacturing,2021,283.76,28,Website,0
+Summit Automation Holdings,Manufacturing,2999,481.02,58,Website,1
+Stonegate-Risk-Labs,Fintech,2380,299.9,67,Cold Email,0
+Silverline Solutions,Manufacturing,103,153.67,29,Cold Email,0
+Stonegate Retail Corp.,Fintech,2310,459.96,66,Cold Email,1
+Atlas Supply Inc.,Retail,2963,82.27,34,Referral,0
+Crescent Dynamics Labs,SaaS,1958,131.84,39,LinkedIn,0
+Keystone Capital Labs,Logistics,1831,368.46,93,Referral,0
+Clearwater Manufacturing Holdings,SaaS,4049,413.72,89,LinkedIn,0
+Ironwood Logistics,Manufacturing,356,366.74,74,Website,1
+Redwood Networks,Fintech,2789,177.23,56,Website,0
+Ledger-Technologies,Fintech,1907,375.1,78,LinkedIn,1
+Keystone Solutions One,Retail,493,155.87,6,Referral,0
+Clearwater Commerce LLC,SaaS,2727,253.69,29,Cold Email,1
+Summit Ledger One,Retail,3700,377.66,74,LinkedIn,0
+Evergreen Retail Labs,Manufacturing,3280,78.27,44,LinkedIn,0
+Atlas-Capital-International Next,Fintech,4540,202.6,11,Website,0
+Silverline-Capital-Technologies,SaaS,1154,243.06,26,Website,0
+Blue Harbor Logistics Inc.,Logistics,1656,282.78,95,Cold Email,0
+Atlas Automation AI,Manufacturing,3573,165.09,74,LinkedIn,1
+Clearwater-Systems-Holdings,Retail,3519,185.81,25,Referral,0
+Pioneer-Ops-Labs,Fintech,2547,88.78,45,Website,0
+Stonegate-Capital-Labs Prime,Retail,417,462.49,30,Cold Email,0
+Insights-Inc.,SaaS,752,60.62,7,Cold Email,0
+Horizon-Ledger-Inc. Prime,SaaS,2406,11.8,89,LinkedIn,0
+Clearwater-Logistics,Retail,236,169.28,95,Cold Email,0
+Apex-Automation,Logistics,2168,276.66,80,Cold Email,0
+Risk Co.,Fintech,3135,293.59,85,LinkedIn,1
+BrightPath Cloud,Fintech,2376,104.34,90,Referral,1
+Ledger Inc. Next,Fintech,595,197.38,35,Referral,0
+Golden Gate Capital International 360,Fintech,2446,434.37,84,Website,1
+Evergreen-Solutions,Retail,4215,488.42,13,Referral,0
+BrightPath Capital LLC,Logistics,4404,48.57,26,Website,0
+Golden Gate Insights Corp.,Fintech,375,127.46,68,Referral,1
+Keystone-Dynamics,Retail,1336,14.09,88,Referral,0
+Supply Corp.,Manufacturing,1984,498.02,65,Referral,0
+Oakridge Supply,Manufacturing,3221,445.75,4,Referral,0
+Ironwood Platform International,Manufacturing,3268,330.18,12,Website,0
+Ironwood Cloud,Logistics,1913,211.58,74,Cold Email,0
+Golden Gate Retail Co.,Manufacturing,2747,227.34,17,Cold Email,0
+Silverline Supply One,Logistics,4484,343.6,26,Cold Email,0
+Beacon Risk International AI,Logistics,1157,217.88,99,Cold Email,0
+Ironwood Commerce Holdings,Logistics,1344,162.16,72,LinkedIn,0
+Atlas Systems,SaaS,291,383.89,53,Website,0
+Crescent Capital Co.,Manufacturing,1294,390.66,14,Cold Email,0
+Pioneer Ops International,Logistics,2236,304.77,79,Cold Email,0
+Riverstone Cloud LLC,SaaS,263,182.83,89,Website,1
+Apex Commerce,Logistics,3890,357.45,48,Cold Email,0
+Oakridge Networks LLC,Retail,3931,73.07,25,Cold Email,1
+BrightPath Payments Group,Fintech,2260,475.35,29,Cold Email,0
+Stonegate Retail Partners,Fintech,1500,463.92,57,Website,0
+Pioneer-Solutions-Partners,Retail,2071,216.64,100,LinkedIn,0
+Atlas-Capital-Labs,Retail,2613,200.1,96,LinkedIn,0
+Horizon Payments International,Retail,3792,414.37,6,Cold Email,0
+Advisory-Labs,Retail,371,281.06,67,LinkedIn,0
+Evergreen-Commerce-International,Retail,3310,442.78,100,Referral,0
+Ops Holdings,Retail,2461,308.5,7,Cold Email,0
+Blue Harbor Manufacturing Holdings,Retail,790,362.71,15,Cold Email,0
+Supply Holdings,Logistics,1158,199.57,42,Website,1
+Keystone-Manufacturing,Retail,4885,448.83,26,Website,1
+Manufacturing-Corp.,Manufacturing,1393,360.6,16,LinkedIn,1
+Golden Gate Manufacturing Labs,Retail,3023,47.23,91,Website,0
+Apex-Commerce-Technologies,Logistics,1359,192.45,49,LinkedIn,0
+Automation Labs,Manufacturing,4682,436.3,20,Cold Email,0
+Riverstone Logistics Holdings,SaaS,470,212.69,40,Website,0
+Crescent Cloud Labs,SaaS,1013,449.78,26,LinkedIn,0
+Commerce LLC,Manufacturing,150,232.03,64,LinkedIn,0
+Retail-Inc.,Retail,1998,112.35,85,Website,0
+Keystone-Cloud-Technologies,Retail,700,302.6,1,Cold Email,0
+Keystone-Ops-International,Manufacturing,4617,410.96,27,LinkedIn,0
+Golden-Gate-Ops,Fintech,2909,23.18,5,Referral,0
+BrightPath Dynamics International,Fintech,451,58.9,23,Cold Email,0
+BrightPath Solutions Labs,Logistics,4923,288.28,72,Cold Email,0
+Riverstone Platform Co.,Logistics,3000,466.08,12,Referral,0
+Platform Labs,Retail,604,380.43,71,LinkedIn,0
+Apex-Ledger-Group,SaaS,1049,348.84,36,Referral,0
+Stonegate Logistics Corp.,Logistics,1769,349.44,79,LinkedIn,1
+Horizon-Advisory,Logistics,768,244.41,89,Referral,0
+Oakridge Commerce,Manufacturing,2177,265.07,80,Referral,0
+Blue Harbor Systems Co.,Logistics,4659,250.72,94,Website,0
+Horizon Supply,SaaS,1956,355.75,25,LinkedIn,1
+Apex Ledger One,Retail,1016,370.05,27,Website,0
+Ironwood Manufacturing Holdings,Manufacturing,2914,282.41,82,Cold Email,1
+Solutions Group,SaaS,2357,130.94,9,Referral,0
+Oakridge Advisory,Logistics,2703,384.68,15,Referral,0
+Evergreen Logistics Group,Logistics,288,416.86,25,Referral,0
+Atlas-Retail-Technologies,Retail,3937,399.64,83,Cold Email,0
+Keystone-Ledger-Inc. 360,Retail,4448,448.48,60,Website,0
+Atlas Platform,Fintech,4318,153.18,93,Referral,1
+Blue Harbor Risk Holdings 360,Fintech,1756,290.81,43,Referral,1
+Riverstone Capital,SaaS,2347,421.17,44,Website,0
+Blue-Harbor-Manufacturing,SaaS,4727,304.82,24,LinkedIn,0
+Evergreen Platform 360,Manufacturing,2626,356.37,35,Website,1
+Pioneer-Automation-LLC,SaaS,3094,228.69,39,Cold Email,0
+Riverstone Systems Partners,SaaS,969,190.24,5,Cold Email,0
+Clearwater-Ledger-Labs,Retail,4195,17.34,62,Cold Email,0
+Riverstone Insights Group,Retail,4339,158.63,42,Cold Email,0
+Summit-Commerce,Fintech,4278,339.98,17,Cold Email,0
+Silverline Risk Inc. Next,Retail,3225,358.27,67,LinkedIn,1
+Apex Networks,Fintech,4918,436.58,43,Website,0
+Stonegate Risk One,Fintech,4314,384.26,96,Referral,1
+Horizon-Solutions-Inc.,Manufacturing,1769,163.84,25,Referral,0
+Blue Harbor Systems,Manufacturing,3663,337.21,35,Cold Email,0
+Clearwater Automation Inc.,Fintech,174,479.36,72,LinkedIn,0
+Pioneer-Advisory-Co.,Manufacturing,4550,162.65,19,Referral,0
+Payments Group,SaaS,633,159.13,44,Website,1
+Networks-Partners,Fintech,3906,452.13,7,LinkedIn,0
+Ironwood Logistics LLC,Fintech,3543,199.0,91,Website,1
+Stonegate Payments Technologies,Manufacturing,2772,409.63,92,LinkedIn,0
+Golden Gate Analytics Holdings,Retail,4701,70.24,90,Website,1
+Keystone-Ledger,Manufacturing,3862,237.92,29,Cold Email,0
+Retail Corp.,Logistics,2163,456.87,51,Cold Email,0
+Silverline-Advisory,Manufacturing,2710,229.38,4,LinkedIn,0
+Supply-Co.,Manufacturing,3971,233.31,22,Referral,0
+Horizon Automation,Logistics,4757,68.06,14,Website,0
+Riverstone Commerce Corp.,Fintech,2719,280.29,10,Referral,0
+Horizon Insights Holdings,Retail,4887,209.65,80,Cold Email,0
+Horizon-Commerce-LLC,Retail,3194,37.7,27,Website,0
+Golden Gate Dynamics,Retail,4696,394.73,70,Cold Email,0
+Apex-Commerce-Partners,Fintech,4753,419.19,15,Website,0
+Silverline Ops Co.,Fintech,3697,92.21,52,LinkedIn,0
+Redwood Ledger Technologies,Logistics,3154,167.07,83,LinkedIn,1
+Beacon Ledger Corp. 360,SaaS,4807,452.11,82,LinkedIn,0
+Clearwater-Capital-Holdings,SaaS,3760,267.97,50,Website,0
+Evergreen Supply Technologies,Manufacturing,2505,287.29,87,Referral,0
+Atlas Cloud Corp.,Retail,2870,495.19,75,LinkedIn,0
+Pioneer-Cloud,Logistics,3361,424.58,38,LinkedIn,0
+Clearwater Risk,Logistics,485,5.42,72,Referral,1
+BrightPath-Capital-Inc.,Manufacturing,305,121.44,90,Website,0
+Clearwater-Payments-Technologies,Retail,3376,193.87,70,Cold Email,0
+Analytics-International,Retail,1189,98.17,50,Referral,0
+Horizon-Payments-Corp.,SaaS,2413,498.74,86,Cold Email,1
+Evergreen Insights,Fintech,178,76.28,63,Website,0
+Silverline Platform,SaaS,743,72.92,54,Website,0
+Riverstone-Retail-Co.,Logistics,3537,313.51,59,Website,0
+Pioneer Ops Inc.,Retail,3201,180.88,24,Website,0
+Solutions LLC,Logistics,4130,424.17,31,Referral,0
+Atlas-Cloud-Corp.,Logistics,4771,186.65,5,Website,0
+Oakridge-Networks-International 360,Fintech,4803,243.36,89,LinkedIn,1
+Blue Harbor Systems Partners,Logistics,2339,235.14,11,LinkedIn,0
+Crescent-Retail-Partners,Fintech,4467,400.06,40,LinkedIn,0
+Evergreen Risk,Logistics,138,237.09,66,Website,0
+Clearwater Manufacturing International Prime,Manufacturing,3498,179.69,38,Referral,0
+Atlas Platform Corp.,Logistics,2540,364.85,73,Referral,1
+Retail-Holdings,Retail,4786,88.69,7,Referral,0
+Summit Retail,Logistics,273,146.97,11,Cold Email,0
+Stonegate-Platform,Manufacturing,2114,70.61,36,Referral,0
+Ironwood Supply Inc.,Fintech,963,303.89,76,Cold Email,1
+Beacon Insights,Manufacturing,1486,134.32,90,Cold Email,0
+Manufacturing Corp.,Logistics,321,174.71,11,Cold Email,0
+Stonegate Analytics Corp.,SaaS,4112,377.62,53,Website,0
+Capital Partners,Retail,1420,109.37,94,Referral,1
+Oakridge Logistics LLC,Manufacturing,1000,31.0,60,Website,0
+Solutions-International,Retail,4412,120.66,88,Website,0
+Summit-Payments,SaaS,4395,435.79,2,Referral,0
+BrightPath Automation Holdings,Retail,3179,340.85,68,LinkedIn,1
+Apex Manufacturing Partners,Logistics,2948,478.31,56,Referral,0
+Manufacturing Holdings,Manufacturing,855,131.4,75,Website,0
+Riverstone Insights International,SaaS,4872,386.4,67,Referral,0
+Golden Gate Manufacturing LLC,SaaS,2616,276.07,87,LinkedIn,0
+Manufacturing-International,Fintech,3418,53.36,14,Website,0
+Platform Corp. One,Manufacturing,2113,100.57,4,LinkedIn,1
+Summit Retail Technologies,Logistics,1826,475.49,82,LinkedIn,0
+Redwood Risk,Fintech,757,428.94,17,Website,0
+Summit Ledger International,Logistics,1563,448.52,90,Cold Email,0
+Beacon-Supply,Retail,670,321.2,36,Website,0
+Crescent Cloud Corp.,Manufacturing,2158,85.17,10,Referral,0
+Pioneer-Advisory-Group,Retail,3233,169.66,8,Referral,0
+Redwood-Manufacturing-Co.,Manufacturing,1507,223.08,63,Cold Email,0
+Crescent Retail,SaaS,4080,58.67,70,Website,0
+Golden Gate Analytics Inc. AI,Fintech,3667,359.12,14,LinkedIn,1
+Solutions-Holdings,Logistics,2102,389.73,3,Website,1
+Silverline Platform 360,Fintech,359,333.98,35,Cold Email,0
+Northbridge Retail LLC,Retail,4757,6.83,91,Website,0
+Pioneer Insights Corp. Next,Retail,624,272.36,1,Website,0
+Clearwater Advisory Group,Retail,1042,285.79,46,Referral,0
+Evergreen-Cloud-Labs,Retail,502,317.97,83,LinkedIn,0
+Riverstone-Logistics,Manufacturing,709,421.38,98,Referral,0
+Summit Platform 360,SaaS,4592,24.47,50,Cold Email,0
+Pioneer-Logistics,Retail,924,317.16,46,Website,1
+Logistics Inc.,Retail,1602,74.27,25,LinkedIn,0
+Platform-Holdings,Logistics,2003,247.17,9,Referral,0
+Supply Holdings 360,Retail,184,23.34,8,Referral,0
+Crescent-Platform,Fintech,3371,63.5,84,Website,0
+Payments Corp.,Logistics,1270,371.82,30,LinkedIn,1
+Ironwood Networks Partners,SaaS,4055,328.65,61,LinkedIn,0
+Ops Co.,SaaS,167,90.26,7,Referral,0
+Silverline Advisory Group,Fintech,3787,307.56,76,LinkedIn,1
+Horizon-Analytics,Fintech,985,251.09,79,Cold Email,1
+Redwood Systems,SaaS,3541,171.98,95,Website,0
+Blue Harbor Payments,Logistics,4521,72.98,28,LinkedIn,0
+Blue Harbor Analytics Partners,Manufacturing,567,64.77,19,Website,0
+Summit Capital,Manufacturing,4583,86.68,32,LinkedIn,1
+Crescent Manufacturing LLC,Logistics,3131,389.94,3,Website,1
+Evergreen Logistics,Fintech,1519,463.44,91,Referral,1
+Beacon Dynamics,Retail,1089,107.05,82,Referral,0
+Stonegate-Risk-International,Retail,2009,469.35,79,LinkedIn,0
+Golden Gate Payments International,Retail,771,315.46,39,Referral,0
+Pioneer Analytics,Logistics,1980,99.99,68,LinkedIn,0
+Stonegate-Platform-Co.,Logistics,4207,113.54,99,Cold Email,0
+Golden Gate Analytics Co.,SaaS,973,399.32,88,Website,0
+Atlas Manufacturing Partners,SaaS,403,31.74,47,Referral,0
+Evergreen-Insights-Partners,Manufacturing,2788,310.33,98,Website,1
+Stonegate Automation,Fintech,4452,92.06,4,Website,0
+Summit-Advisory-Technologies,Fintech,1977,362.09,76,Referral,1
+Solutions Holdings 360,Manufacturing,1934,390.59,42,Cold Email,1
+Beacon Logistics Group,Retail,1688,190.89,29,LinkedIn,0
+Riverstone Ops Technologies,Retail,495,445.79,19,Cold Email,0
+Blue Harbor Cloud LLC,Retail,1508,196.73,18,Website,0
+Platform Inc.,Manufacturing,2259,105.09,17,LinkedIn,0
+Northbridge Manufacturing One,Fintech,2348,72.57,60,Website,0
+Blue Harbor Dynamics Next,Manufacturing,1851,443.77,78,Cold Email,0
+Apex Automation Inc.,Logistics,1442,291.17,71,Cold Email,1
+Atlas Analytics,Logistics,4057,431.79,28,Website,0
+Dynamics Inc.,Manufacturing,168,366.36,95,Cold Email,0
+Stonegate Logistics Holdings,Retail,4796,115.09,76,Cold Email,0
+Solutions Holdings,Fintech,3472,490.19,6,Website,0
+Silverline Dynamics,Logistics,325,215.72,51,Website,0
+Summit Cloud Technologies,Fintech,3756,250.17,11,LinkedIn,0
+Blue-Harbor-Solutions-Partners,Retail,1835,70.69,38,Cold Email,0
+Redwood Dynamics International,Fintech,180,242.49,40,Cold Email,0
+Evergreen Manufacturing Group,Logistics,4831,17.08,59,Website,0
+Blue Harbor Advisory Labs,Retail,1565,395.98,48,Website,0
+Silverline Ledger Holdings,Fintech,629,195.52,89,Referral,1
+BrightPath Retail Inc.,Manufacturing,3538,377.68,90,Cold Email,0
+Oakridge Manufacturing AI,Fintech,2800,369.2,8,Referral,0
+Summit Cloud,Fintech,3187,185.97,80,LinkedIn,1
+Dynamics-Partners,SaaS,4627,353.91,72,Cold Email,1
+Advisory International,Manufacturing,2004,272.12,84,Website,0
+Ironwood Logistics Group,Logistics,1768,377.82,98,Cold Email,0
+Keystone Risk,Manufacturing,4175,341.71,36,LinkedIn,1
+Apex Automation,Manufacturing,3756,245.68,68,LinkedIn,0
+Capital Holdings One,Logistics,4415,450.23,58,Referral,0
+Oakridge Capital,Fintech,1592,446.49,59,LinkedIn,1
+Clearwater Logistics Inc.,SaaS,2412,479.34,10,LinkedIn,0
+Apex-Risk-Group,Fintech,1262,250.68,27,LinkedIn,0
+Atlas-Ops,Logistics,1131,239.58,54,Website,0
+Apex Ops LLC AI,Fintech,2438,98.59,3,Cold Email,0
+Ironwood Platform Prime,Logistics,2801,208.79,44,Referral,0
+Blue-Harbor-Solutions,Logistics,4543,225.4,39,Cold Email,0
+Crescent Systems Holdings,Manufacturing,1456,395.69,30,Website,0
+Keystone-Commerce,Manufacturing,437,78.43,37,Website,0
+Ironwood Solutions Next,Logistics,1367,357.35,37,Cold Email,0
+Stonegate Retail Labs,SaaS,1370,122.76,6,Referral,0
+Silverline Ops AI,Retail,2183,187.99,27,LinkedIn,0
+Silverline-Insights,Manufacturing,1261,189.59,70,Cold Email,0
+BrightPath Cloud Corp.,Fintech,254,205.26,64,Cold Email,0
