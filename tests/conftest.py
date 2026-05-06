@@ -1,5 +1,5 @@
-import sys
 from pathlib import Path
+import sys
 
 
 # Ensure project root is importable in pytest (so `import app` works).
