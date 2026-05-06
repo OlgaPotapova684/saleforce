@@ -1,5 +1,98 @@
 ## AI Sales Predictor (Streamlit)
 
+Demo project “AI Sales Predictor”: a Streamlit app that shows how to:
+- score a new lead (lead prioritization),
+- analyze historical wins/losses,
+- use an LLM as an *interpreter* of quantitative results (not as the only source of truth).
+
+## What’s inside
+
+### 1) Lead Scoring (new lead)
+The form takes 4 inputs:
+- `company_name` (display only),
+- `industry`,
+- `emp_count`,
+- `engagement_score`.
+
+The app produces a **two-layer assessment**:
+
+- **Baseline (deterministic scoring + statistics)**  
+  Uses the “hidden” pattern embedded in the synthetic dataset:
+  - if `industry == Fintech` and `emp_count > 200` and `engagement_score > 60`, then \(P(\text{win}) \approx 0.85\)
+  - otherwise \(P(\text{win}) \approx 0.15\)
+
+  Then it lightly blends in the empirical industry Win Rate (if available):
+  \[
+  p = 0.75 \cdot p_{rule} + 0.25 \cdot p_{industry}
+  \]
+  \[
+  score = round(100 \cdot p)
+  \]
+  Priority:
+  - `High`: score ≥ 70
+  - `Medium`: 40–69
+  - `Low`: < 40
+
+- **LLM verdict (ProxyAPI → gpt-4o-mini)**  
+  The LLM receives the lead profile + win-rate-by-industry + the baseline assessment.  
+  It returns JSON: `score (0..100)`, `priority (High/Medium/Low)`, and a detailed justification.
+
+The idea: baseline provides **reproducible math**, while the LLM provides **human-friendly rationale**.
+
+### 2) Historical Analysis (wins vs losses)
+Goal: identify patterns in the dataset — “why some deals close and others don’t”.
+
+The UI shows a compact report:
+
+- **Overall Win Rate**: share of `closed_deal=1`
+- **Win Rate by industry**: table + bar chart
+- **Segments**: `industry × emp_bin × engagement_bin`  
+  Where:
+  - `emp_bin`: `<=200`, `201-500`, `501-2000`, `2001-5000`, `5000+`
+  - `engagement_bin`: `1-40`, `41-60`, `61-80`, `81-100`
+
+  Per segment we compute:
+  - `N` (support)
+  - `win_rate` / `win_rate_pct`
+  - `lift` vs overall Win Rate (percentage points)
+
+- **Simple rule mining (interpretable)**  
+  Brute-force rules of the form:
+  - `industry == X`
+  - `emp_count > T`
+  - `engagement_score > T`
+  - up to 3 combined conditions  
+  We keep the rules with sufficient support (`min_support`) and the highest lift.
+
+- **Simple model (Logistic Regression)**  
+  A logistic regression is trained on:
+  - `industry` (one-hot),
+  - `emp_count`,
+  - `engagement_score`.
+
+  The report shows:
+  - Accuracy and ROC AUC on a hold-out test split,
+  - top coefficients (drivers increasing/decreasing win probability).
+
+### 3) AI Summary (from aggregates)
+The **AI Summary** button sends only **aggregated results** to ProxyAPI (not all raw CSV rows):
+- overall metrics,
+- win rate by industry,
+- top segments,
+- top rules,
+- model metrics/coefficients.
+
+The LLM returns a compact JSON with insights and recommendations (prioritize/deprioritize segments, next steps).
+
+## Project structure
+- `app.py` — Streamlit UI + scoring + historical analysis + ProxyAPI integration
+- `historical_sales_data.csv` — synthetic sales history (500 rows)
+- `generate_historical_sales_data.py` — synthetic data generator (with the hidden pattern)
+- `requirements.txt` — dependencies
+- `.env.example` — environment variable example (no secrets)
+
+---
+
 Проект-демо “AI Sales Predictor”: Streamlit-приложение, которое показывает, как можно:
 - оценивать перспективность нового лида (скоринг),
 - анализировать историю сделок/отказов (wins/losses),
