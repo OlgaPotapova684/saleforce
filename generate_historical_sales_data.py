@@ -3,7 +3,6 @@ import random
 from dataclasses import dataclass
 from pathlib import Path
 
-
 INDUSTRIES = ["Fintech", "SaaS", "Manufacturing", "Retail", "Logistics"]
 LEAD_SOURCES = ["LinkedIn", "Cold Email", "Referral", "Website"]
 

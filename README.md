@@ -1,5 +1,8 @@
 ## AI Sales Predictor (Streamlit)
 
+[![CI](https://github.com/OlgaPotapova684/saleforce/actions/workflows/ci.yml/badge.svg)](https://github.com/OlgaPotapova684/saleforce/actions/workflows/ci.yml)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Demo project “AI Sales Predictor”: a Streamlit app that shows how to:
 - score a new lead (lead prioritization),
 - analyze historical wins/losses,

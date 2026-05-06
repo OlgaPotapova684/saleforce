@@ -1,13 +1,12 @@
 import json
 import os
 from dataclasses import dataclass
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any
 
 import altair as alt
 import pandas as pd
 import requests
 from dotenv import load_dotenv
-
 
 PROXYAPI_BASE_URL = "https://api.proxyapi.ru/openai/v1"
 MODEL = "gpt-4o-mini"
@@ -31,8 +30,8 @@ def baseline_proba_closed_deal(lead: Lead) -> float:
 
 
 def baseline_score_and_priority(
-    lead: Lead, win_rates: Dict[str, float]
-) -> Tuple[int, str, str]:
+    lead: Lead, win_rates: dict[str, float]
+) -> tuple[int, str, str]:
     """
     Produce a reproducible baseline assessment.
 
@@ -142,7 +141,7 @@ def mine_simple_rules(
     emp_thresholds = [200, 500, 1000, 2000]
     eng_thresholds = [40, 60, 80]
 
-    candidates: List[Dict[str, Any]] = []
+    candidates: list[dict[str, Any]] = []
 
     def add_rule(name: str, mask: pd.Series) -> None:
         n = int(mask.sum())
@@ -204,7 +203,7 @@ def mine_simple_rules(
     return rules_df.sort_values(["lift_pct_points", "support_n"], ascending=[False, False]).head(top_k)
 
 
-def train_simple_model(df: pd.DataFrame) -> Dict[str, Any]:
+def train_simple_model(df: pd.DataFrame) -> dict[str, Any]:
     """
     Train a lightweight interpretable model: Logistic Regression.
     Returns metrics and a compact feature importance table.
@@ -273,7 +272,7 @@ def get_api_key() -> str:
     return key
 
 
-def _safe_json_extract(text: str) -> Optional[Dict[str, Any]]:
+def _safe_json_extract(text: str) -> dict[str, Any] | None:
     text = text.strip()
     if not text:
         return None
@@ -294,7 +293,7 @@ def _safe_json_extract(text: str) -> Optional[Dict[str, Any]]:
         return None
 
 
-def call_proxyapi(lead: Lead, win_rates: Dict[str, float]) -> Dict[str, Any]:
+def call_proxyapi(lead: Lead, win_rates: dict[str, float]) -> dict[str, Any]:
     api_key = get_api_key()
 
     system = (
@@ -360,7 +359,7 @@ def call_proxyapi(lead: Lead, win_rates: Dict[str, float]) -> Dict[str, Any]:
     return parsed
 
 
-def call_proxyapi_history_summary(analysis_payload: Dict[str, Any]) -> Dict[str, Any]:
+def call_proxyapi_history_summary(analysis_payload: dict[str, Any]) -> dict[str, Any]:
     """
     Send aggregated historical analysis to the LLM for a compact business-friendly summary.
     """
