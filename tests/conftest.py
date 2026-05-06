@@ -1,6 +1,5 @@
-from pathlib import Path
 import sys
-
+from pathlib import Path
 
 # Ensure project root is importable in pytest (so `import app` works).
 ROOT = Path(__file__).resolve().parents[1]
